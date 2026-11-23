@@ -18,7 +18,7 @@
 
 ---
 
-## Phase 1: Foundations — Linux, Networking, Git (Weeks 1–4)
+## Phase 1: Foundations — Linux, Networking, Git
 
 **Learn:**
 
@@ -46,7 +46,7 @@
 
 ---
 
-## Phase 2: Scripting — Bash and Python (Weeks 5–7)
+## Phase 2: Scripting — Bash and Python
 
 **Learn:**
 
@@ -70,7 +70,7 @@
 
 ---
 
-## Phase 3: Cloud Fundamentals — AWS (Weeks 8–12)
+## Phase 3: Cloud Fundamentals — AWS
 
 **Learn:**
 
@@ -100,7 +100,7 @@
 
 ---
 
-## Phase 4: Containers — Docker (Weeks 13–15)
+## Phase 4: Containers — Docker
 
 **Learn:**
 
@@ -127,7 +127,7 @@
 
 ---
 
-## Phase 5: CI/CD (Weeks 16–19)
+## Phase 5: CI/CD
 
 **Learn:**
 
@@ -154,7 +154,7 @@
 
 ---
 
-## Phase 6: Infrastructure as Code — Terraform and Ansible (Weeks 20–25)
+## Phase 6: Infrastructure as Code — Terraform and Ansible
 
 **Learn Terraform:**
 
@@ -187,7 +187,7 @@
 
 ---
 
-## Phase 7: Kubernetes (Weeks 26–32)
+## Phase 7: Kubernetes
 
 **Learn:**
 
@@ -221,7 +221,7 @@
 
 ---
 
-## Phase 8: GitOps — ArgoCD (Weeks 33–34)
+## Phase 8: GitOps — ArgoCD
 
 **Learn:**
 
@@ -243,7 +243,7 @@
 
 ---
 
-## Phase 9: Monitoring, Logging and Observability (Weeks 35–37)
+## Phase 9: Monitoring, Logging and Observability 
 
 **Learn:**
 
@@ -269,7 +269,7 @@
 
 ---
 
-## Phase 10: DevSecOps (Weeks 38–39)
+## Phase 10: DevSecOps 
 
 **Learn:**
 
@@ -294,7 +294,7 @@
 
 ---
 
-## Phase 11: Capstone, Portfolio and Job Prep (Weeks 40–44)
+## Phase 11: Capstone, Portfolio and Job Prep
 
 - A real microservices app (3+ services)
 - Infrastructure fully in Terraform (VPC, EKS, ECR, RDS)
